@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🎵 MP4转MP3转换器
+这是作为我的第一个编程作品，灵感来自我媳妇对于听课的需求，请需要的兄弟们给个star！
 
 ### 将MP4视频文件转换为MP3音频文件的桌面工具
 
@@ -11,13 +12,6 @@
 
 </div>
 <img width="649" height="632" alt="67f47543-8104-445e-9656-32d499f12683" src="https://github.com/user-attachments/assets/25918bb1-9c3b-4d14-b37b-7fe692d5d78c" />
-
-
-<div align="center">
-
-| 主界面 | 批量转换 |
-|--------|----------|
-| ![主界面](screenshots/main.png) | ![批量转换](screenshots/batch.png) |
 
 </div>
 
@@ -284,7 +278,7 @@ MP4-to-MP3-Converter/
 
 - 项目地址: [https://github.com/yourusername/mp4-to-mp3-converter](https://github.com/yourusername/mp4-to-mp3-converter)
 - 问题反馈: [Issues](https://github.com/yourusername/mp4-to-mp3-converter/issues)
-- 电子邮件: your.email@example.com
+- 电子邮件: 1320343305@qq.com
 
 ---
 
