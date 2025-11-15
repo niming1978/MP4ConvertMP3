@@ -1,0 +1,21 @@
+# MP4转MP3转换器 - 依赖包列表
+# 这是转换器专用依赖，不是整个Skill_Seekers项目的依赖
+
+# 核心依赖 - 视频处理
+moviepy==2.2.1
+imageio-ffmpeg==0.4.9
+
+# imageio - moviepy的依赖
+imageio==2.31.2
+
+# 图像处理
+Pillow==11.0.0
+
+# 数据处理
+numpy==1.25.2
+
+# 进度条（moviepy需要）
+proglog==0.1.10
+
+# 注意：以下包用于开发和打包，运行时不需要
+# pyinstaller==6.16.0
