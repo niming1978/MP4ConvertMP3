@@ -10,8 +10,7 @@
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](#)
 
 </div>
-
-<img width="646" height="574" alt="a7b7ba23-d63b-40bf-9310-394fb8ca3361" src="https://github.com/user-attachments/assets/b563b071-eb07-4309-b340-24a6ba17c6f8" />
+<img width="649" height="632" alt="67f47543-8104-445e-9656-32d499f12683" src="https://github.com/user-attachments/assets/25918bb1-9c3b-4d14-b37b-7fe692d5d78c" />
 
 
 <div align="center">
@@ -294,3 +293,4 @@ MP4-to-MP3-Converter/
 **如果觉得这个项目有帮助，请给个 ⭐ Star！**
 
 </div>
+
